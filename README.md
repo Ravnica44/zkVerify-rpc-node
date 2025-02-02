@@ -1,5 +1,7 @@
 https://docs.zkverify.io/tutorials/how_to_run_a_node/run_using_docker/run_new_rpc_node
 
+https://github.com/zkVerify/compose-zkverify-simplified
+
 https://ss58.org/ custom 251
 
 https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.zkverify.io#/extrinsics
