@@ -36,7 +36,7 @@ cd compose-zkverify-simplified && scripts/init.sh
 ```
 
 ```shell
-docker compose -f /home/zkverify/compose-zkverify-simplified/deployments/validator-node/testnet/docker-compose.yml up -d
+docker compose -f /home/zkverify/compose-zkverify-simplified/deployments/rpc-node/testnet/docker-compose.yml up -d
 ```
 
 ```shell
