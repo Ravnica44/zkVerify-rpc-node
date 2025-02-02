@@ -44,5 +44,5 @@ docker update --restart always rpc-node
 ```
 
 ```shell
-docker logs -f rpc-node)
+docker logs -f rpc-node
 ```
